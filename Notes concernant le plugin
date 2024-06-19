@@ -1,0 +1,9 @@
+Bonjour Monsieur,
+j'ai créé le plugin Daubify et nous avions noté lors de la soutenance un problème avec le champ relation d'infos artistes.
+En effet, le champ n'était pas pris en compte, il n'apparaissait pas dans la création des artistes. J'ai regénéré cette version
+en php et l'ai envoyé dans mon Local et sur le site local il fonctionne très bien ! Je ne sais donc pas à quoi c'est dû.
+J'espère donc qu'il fonctionnera pour vous aussi, sachant qu'aucune contre-indication ne semble exister concernant la présence
+de ce champ.
+Je note aussi que j'ai bien configuré l'API Rest de Wordpress. Seulement je ne l'ai pas utilisé dans mon projet. Et si je l'ai
+utilisé je voudrais bien savoir comment le lien s'est fait.
+Passez une bonne journée et je vous souhaite de bonnes vacances si nous ne nous revoyons pas.
